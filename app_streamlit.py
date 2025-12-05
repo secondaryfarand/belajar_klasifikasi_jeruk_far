@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblit
+import joblib
 
 st.set_page_config (
     page_title= "Belajar Klasifikasi Jeruk F", 
